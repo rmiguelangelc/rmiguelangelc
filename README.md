@@ -42,4 +42,5 @@ Tras mi formación intensiva en 4Geeks Academy y mi experiencia gestionando oper
 
 ¡Siempre estoy abierto a charlar sobre tecnología, automatización de procesos y nuevas oportunidades!
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miguelangel-rivas) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelangel.erc@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miguelangel-rivas-b81800348) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelangel.erc@gmail.com)
+![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelangel.erc@gmail.com)
